@@ -8,7 +8,7 @@ A calculator with standard arithmetic functions (addition, subtraction, multipli
 ## Technical details ⚙️
 * Framework CLI -> Foundry.
 * Forge version -> 1.1.0-stable.
-* Compiler version -> 0.8.24.
+* Solidity compiler version -> 0.8.24.
 ## Deploying the contract 🛠️
 1. Clone the GitHub repository.
 2. Open Visual Studio Code (you should already have Foundry installed).
